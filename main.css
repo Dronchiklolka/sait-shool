@@ -29,3 +29,18 @@ h1,h2,h3,h4,h5,h6{
 p {
     margin: 0 0 10px;
 }
+
+header{
+  display: flex;
+  background-color: blueviolet;
+  height: 300px;
+}
+
+.header__nav{
+
+}
+
+.header__title{
+    margin: 15px 0;
+}
+
